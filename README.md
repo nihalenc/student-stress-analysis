@@ -4,7 +4,7 @@ Bu proje, [Kaggle – Student Stress Levels Dataset](https://www.kaggle.com/data
 
 ---
 
-## Özette
+## Özet
 
 - **Amaç:** Uyku kalitesi, baş ağrısı sıklığı, ders yükü, akademik performans ve kulüp/etkinlik sıklığı gibi faktörlerden öğrencinin **stres seviyesini (1–5)** tahmin etmek  
 - **Veri seti:** 520 gözlem, 6 sütun  
