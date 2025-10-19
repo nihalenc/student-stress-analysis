@@ -69,7 +69,7 @@ model.fit(X_train, y_train)
 ## Kurulum ve Çalıştırma
 
 ```bash
-git clone https://github.com/<nihalenc>/student-stress-analysis.git
+git clone https://github.com/nihalenc/student-stress-analysis.git
 cd student-stress-analysis
 pip install -r requirements.txt
 jupyter notebook
